@@ -1,8 +1,7 @@
 ### Salve! Tudo certo? Me chamo João Rock, Bem-Vindo!
 
-- 🔭 Hoje trabalho como Estagiário de Desenvolvimento Web na Controladoria Geral do Estado do Rio Grande do Norte
-- 🌱 Estudando JS, Node.JS e React.JS
-- 💼 Projetos Desenvolvidos Para o Gov. do Rio grande do Norte: https://transparencia.rn.gov.br/ 
+- 🔭 Hoje trabalho como Estagiário de Desenvolvimento Web na Ioasys
+- 🌱 Estudando JS, Node.JS, React.JS e NestJs
 
 <div align="center">
   <a href="https://github.com/Jrockbritto">
