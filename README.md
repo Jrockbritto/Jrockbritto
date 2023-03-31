@@ -1,7 +1,6 @@
 ### Salve! Tudo certo? Me chamo João Rock, Bem-Vindo!
 
-- 🔭 Hoje trabalho como Estagiário de Desenvolvimento Web na Ioasys
-- 🌱 Estudando JS, Node.JS, React.JS e NestJs
+- 🌱 Atuando com JS, Node.JS, React.JS e NestJs na construção de REST APIs.
 
 <div align="center">
   <a href="https://github.com/Jrockbritto">
