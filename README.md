@@ -1,6 +1,6 @@
 ### Salve! Tudo certo? Me chamo João Rock, Bem-Vindo!
 
-- 🌱 Atuando com JS, Node.JS, React.JS e NestJs na construção de REST APIs.
+- 🌱 Atuando com JS/TS, Node.JS, React.JS e NestJs na construção de REST APIs.
 
 <div align="center">
   <a href="https://github.com/Jrockbritto">
